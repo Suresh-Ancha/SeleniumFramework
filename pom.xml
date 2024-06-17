@@ -14,8 +14,8 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<jre.level>17</jre.level>
-		<jdk.level>17</jdk.level>
+		<jre.level>11</jre.level>
+		<jdk.level>11</jdk.level>
 		<app.env>${test.env}</app.env>
 		<selenium-version>4.14.1</selenium-version>
 		<selenium.timeout>${selenium_timeout}</selenium.timeout>
